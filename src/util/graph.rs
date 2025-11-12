@@ -14,8 +14,6 @@ impl<P, I> Graph<P, I> {
             items: Vec::new(),
         }
     }
-
-    /// Insert a prefix with an optional parent.
     pub fn insert_prefix(&mut self, parent: Option<PrefixId>, data: P) -> PrefixId {
         let prefix_id = PrefixId(self.prefix.len());
         self.prefix.push(Prefix {

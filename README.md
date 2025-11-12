@@ -150,3 +150,4 @@ all of Serde's features for serialising and deserialising structs.
 
 - [`trpc`](https://github.com/trpc/trpc): Needs no introduction, however it being restricted to
 TypeScript backends makes it relatively useless for Rust developers.
+# SyncRust

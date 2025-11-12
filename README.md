@@ -2,15 +2,13 @@
   <img src="./logo.png" alt="" width="120" />
   <h1>Qubit: Seamless RPC For Rust & TypeScript</h1>
 
-  <a href="https://crates.io/crates/qubit"><img src="https://img.shields.io/crates/v/qubit" alt="crates.io" /></a>
-  <a href="https://docs.rs/qubit/latest/qubit"><img src="https://img.shields.io/docsrs/qubit" alt="docs.rs" /></a>
-  <a href="https://www.npmjs.com/package/@qubit-rs/client"><img src="https://img.shields.io/npm/v/%40qubit-rs%2Fclient" alt="npm" /></a>
-  <a href="https://github.com/andogq/qubit/actions/workflows/checks.yml"><img src="https://github.com/andogq/qubit/actions/workflows/checks.yml/badge.svg" alt="checks" /></a>
+  <a href=""><img src="https://img.shields.io/crates/v/qubit" alt="crates.io" /></a>
+  <a href=""><img src="https://img.shields.io/docsrs/qubit" alt="docs.rs" /></a>
+  <a href=""><img src="https://img.shields.io/npm/v/%40qubit-rs%2Fclient" alt="npm" /></a>
+  <a href=""><img src="https://github.com/andogq/qubit/actions/workflows/checks.yml/badge.svg" alt="checks" /></a>
 </div>
 
-Tired of wrestling with RPC boilerplate? Qubit simplifies communication between your Rust services
-and TypeScript clients, offering a type-safe and feature-rich development experience, so you can
-focus on building amazing applications.
+Efficient, reliable, and type-safe—Qubit is the ultimate RPC framework for developers working with Rust services and TypeScript clients. Forget about tedious boilerplate and complex setups; Qubit streamlines every interaction, letting you focus on building robust applications. Whether you’re developing small projects or large distributed systems, Qubit ensures smooth communication, fewer errors, and faster delivery. Build smarter, ship faster, and enjoy coding again.
 
 ## Features:
 
